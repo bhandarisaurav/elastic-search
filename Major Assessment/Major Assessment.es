@@ -868,15 +868,6 @@ GET order_sample/_search
     }
 }
 
-#Creativity Check
-#Create an index of your own choice with mapping having fields of different types. Consider using all the types that we have learnt so far. Prefer creating analyzer #and try using synonyms and stop-words filters in the analyzer.
-#Bulk insert at least 10 documents creating a json file yourself and by using curl.
-#Perform as many different searches and aggregations as you would like to for analyzing various aspects of your data.
-
-
-
-
-
 
 
 
